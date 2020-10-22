@@ -11,6 +11,6 @@
 ###### - Shenzhi Shi
 
 ## Git Resources:
-###### - [Git Cheat Sheet] (https://education.github.com/git-cheat-sheet-education.pdf)
-###### - [Git Syntax] (https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+###### - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+###### - [Git Syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
