@@ -1,1 +1,1 @@
-###### This is Yashas's folder within the Git repository.
+###### This is Yashas's folder in the Git repository.
