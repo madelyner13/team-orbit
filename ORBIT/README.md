@@ -1,0 +1,1 @@
+###### This is the folder where we will document each, iterative step in developing our control algorithms for the Ranger manipulator in the Space Systems Laboratory at the University of Maryland. This will be split into developments of control based on voice and gesture, respectively.
